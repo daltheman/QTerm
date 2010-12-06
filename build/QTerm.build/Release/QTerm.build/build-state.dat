@@ -1,0 +1,595 @@
+TQTerm
+v7
+r0
+t313329913.075012
+cCheck dependencies
+cProcessInfoPlistFile /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Info.plist QTerm-Info.plist
+cCopyStringsFile /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib
+cCpResource build/Release/QTerm.app/Contents/Resources/icon.png icon.png
+cCpResource build/Release/QTerm.app/Contents/Resources/iconqterm.icns iconqterm.icns
+cCpResource build/Release/QTerm.app/Contents/Resources/teste.qtz teste.qtz
+cProcessPCH /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch.gch QTerm_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch.gch QTerm_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch.gch QTerm_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/main.o /Users/danilo/Desktop/QTerm/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTermAppDelegate.o /Users/danilo/Desktop/QTerm/QTermAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/TerminalView.o /Users/danilo/Desktop/QTerm/TerminalView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/Terminal.o /Users/danilo/Desktop/QTerm/Terminal.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/i386/main.o /Users/danilo/Desktop/QTerm/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTermAppDelegate.o /Users/danilo/Desktop/QTerm/QTermAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/i386/TerminalView.o /Users/danilo/Desktop/QTerm/TerminalView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/i386/Terminal.o /Users/danilo/Desktop/QTerm/Terminal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/main.o /Users/danilo/Desktop/QTerm/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTermAppDelegate.o /Users/danilo/Desktop/QTerm/QTermAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/TerminalView.o /Users/danilo/Desktop/QTerm/TerminalView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/Terminal.o /Users/danilo/Desktop/QTerm/Terminal.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm normal x86_64
+cLd /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm normal ppc
+cLd /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm normal i386
+cCreateUniversalBinary /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/danilo/Desktop/QTerm/build/Release/QTerm.app.dSYM /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm
+cTouch /Users/danilo/Desktop/QTerm/build/Release/QTerm.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004AC59C8100000000000003EB
+t1254464641
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C4DE4B2000000000000116C
+t1280173234
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/util.h
+c000000004AC59C8200000000000011C8
+t1254464642
+s4552
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/danilo/Desktop/QTerm/English.lproj/InfoPlist.strings
+c000000004CFAB10D000000000000002D
+t1291497741
+s45
+
+N/Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib
+c000000004CFC07E6000000000004050A
+t1291585510
+s263434
+
+N/Users/danilo/Desktop/QTerm/QTermAppDelegate.h
+c000000004CFAB10D000000000000012F
+t1291497741
+s303
+i<Cocoa/Cocoa.h>
+
+N/Users/danilo/Desktop/QTerm/QTermAppDelegate.m
+c000000004CFAB33B00000000000001AC
+t1291498299
+s428
+i"QTermAppDelegate.h"
+
+N/Users/danilo/Desktop/QTerm/QTerm_Prefix.pch
+c000000004CFAB10D000000000000008D
+t1291497741
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/danilo/Desktop/QTerm/Terminal.h
+c000000004CF953C20000000000000187
+t1291408322
+s391
+i<Foundation/Foundation.h>
+
+N/Users/danilo/Desktop/QTerm/Terminal.m
+c000000004CFCD16A0000000000000416
+t1291637098
+s1046
+i"Terminal.h"
+i<util.h>
+i<unistd.h>
+i<sys/ioctl.h>
+i<errno.h>
+
+N/Users/danilo/Desktop/QTerm/TerminalView.h
+c000000004CFADE4F00000000000003F7
+t1291509327
+s1015
+i<Foundation/Foundation.h>
+i"Terminal.h"
+
+N/Users/danilo/Desktop/QTerm/TerminalView.m
+c000000004CFAF0230000000000001153
+t1291513891
+s4435
+i"TerminalView.h"
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm
+t1291637112
+s31560
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm.LinkFileList
+c000000004CFBFEA9000000000000018C
+t1291583145
+s396
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTermAppDelegate.o
+t1291583150
+s15508
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/Terminal.o
+t1291637112
+s11288
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/TerminalView.o
+t1291583150
+s43268
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/main.o
+t1291583150
+s4820
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm
+t1291637110
+s30924
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm.LinkFileList
+c000000004CFBFEA90000000000000188
+t1291583145
+s392
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTermAppDelegate.o
+t1291583151
+s15628
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/Terminal.o
+t1291637109
+s11464
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/TerminalView.o
+t1291583151
+s45520
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/main.o
+t1291583150
+s4852
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm
+t1291637101
+s34736
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm.LinkFileList
+c000000004CFBFEA90000000000000194
+t1291583145
+s404
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTermAppDelegate.o
+t1291583150
+s22068
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/Terminal.o
+t1291637101
+s15276
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/TerminalView.o
+t1291583150
+s66596
+
+N/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/main.o
+t1291583150
+s5024
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app
+t1291637113
+s102
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app.dSYM
+t1291637112
+s102
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Info.plist
+t1291583145
+s941
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm
+t1291637112
+s104652
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/PkgInfo
+t1291583145
+s8
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1291583145
+s92
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/English.lproj/MainMenu.nib
+t1291585512
+s54548
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/icon.png
+t1291583145
+s14172
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/iconqterm.icns
+t1291583145
+s97662
+
+N/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/teste.qtz
+t1291583145
+s16843
+
+N/Users/danilo/Desktop/QTerm/icon.png
+c000000004CFAC160000000000000375C
+t1291501920
+s14172
+
+N/Users/danilo/Desktop/QTerm/iconqterm.icns
+c000000004CFAC2140000000000017D7E
+t1291502100
+s97662
+
+N/Users/danilo/Desktop/QTerm/main.m
+c000000004CFAB10D00000000000000F5
+t1291497741
+s245
+i<Cocoa/Cocoa.h>
+
+N/Users/danilo/Desktop/QTerm/teste.qtz
+c000000004CFB137000000000000041CB
+t1291522928
+s16843
+
+N/var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch.gch
+t1291583150
+s52922128
+
+N/var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch.gch
+t1291583150
+s55559984
+
+N/var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch.gch
+t1291583150
+s52794960
+
+NQTerm-Info.plist
+c000000004CFAD44800000000000003F7
+t1291506760
+s1015
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313329898#313329898#0(0"0(0#1#0"8659475520#0"0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTermAppDelegate.o /Users/danilo/Desktop/QTerm/QTermAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313275950.648860
+e313275950.803158
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTermAppDelegate.o
+x/Users/danilo/Desktop/QTerm/QTermAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/danilo/Desktop/QTerm/QTermAppDelegate.m313275950#313275950#0(0"0(0#0#46"/Users/danilo/Desktop/QTerm/QTermAppDelegate.m8649256096#1343"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/i386 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/QTermAppDelegate.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTermAppDelegate.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/i386/Terminal.o /Users/danilo/Desktop/QTerm/Terminal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313329899.568022
+e313329912.705573
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/i386/Terminal.o
+x/Users/danilo/Desktop/QTerm/Terminal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/danilo/Desktop/QTerm/Terminal.m313329899#313329912#0(0"0(0#0#38"/Users/danilo/Desktop/QTerm/Terminal.m8668672448#1327"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/i386 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/Terminal.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/Terminal.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/i386/TerminalView.o /Users/danilo/Desktop/QTerm/TerminalView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313275950.735900
+e313275951.001403
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/i386/TerminalView.o
+x/Users/danilo/Desktop/QTerm/TerminalView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/danilo/Desktop/QTerm/TerminalView.m313275950#313275951#0(0"0(0#0#42"/Users/danilo/Desktop/QTerm/TerminalView.m8632640992#1335"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/i386 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/TerminalView.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/TerminalView.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/i386/main.o /Users/danilo/Desktop/QTerm/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313275950.624539
+e313275950.735819
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/i386/main.o
+x/Users/danilo/Desktop/QTerm/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/danilo/Desktop/QTerm/main.m313275950#313275950#0(0"0(0#0#34"/Users/danilo/Desktop/QTerm/main.m8651728320#1319"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/i386 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/main.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/main.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTermAppDelegate.o /Users/danilo/Desktop/QTerm/QTermAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s313275950.897719
+e313275951.017063
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTermAppDelegate.o
+x/Users/danilo/Desktop/QTerm/QTermAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/danilo/Desktop/QTerm/QTermAppDelegate.m313275950#313275951#0(0"0(0#0#46"/Users/danilo/Desktop/QTerm/QTermAppDelegate.m8655274848#1350"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/ppc -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/QTermAppDelegate.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTermAppDelegate.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/Terminal.o /Users/danilo/Desktop/QTerm/Terminal.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s313329899.578175
+e313329909.731026
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/ppc/Terminal.o
+x/Users/danilo/Desktop/QTerm/Terminal.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/danilo/Desktop/QTerm/Terminal.m313329899#313329909#0(0"0(0#0#38"/Users/danilo/Desktop/QTerm/Terminal.m8656223296#1334"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/ppc -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/Terminal.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/Terminal.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/TerminalView.o /Users/danilo/Desktop/QTerm/TerminalView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s313275951.002367
+e313275951.207719
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/ppc/TerminalView.o
+x/Users/danilo/Desktop/QTerm/TerminalView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/danilo/Desktop/QTerm/TerminalView.m313275951#313275951#0(0"0(0#0#42"/Users/danilo/Desktop/QTerm/TerminalView.m8655722208#1342"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/ppc -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/TerminalView.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/TerminalView.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/main.o /Users/danilo/Desktop/QTerm/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s313275950.803242
+e313275951.002306
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/ppc/main.o
+x/Users/danilo/Desktop/QTerm/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/danilo/Desktop/QTerm/main.m313275950#313275951#0(0"0(0#0#34"/Users/danilo/Desktop/QTerm/main.m8628172064#1326"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/ppc -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/main.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTermAppDelegate.o /Users/danilo/Desktop/QTerm/QTermAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313275950.506304
+e313275950.648779
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTermAppDelegate.o
+x/Users/danilo/Desktop/QTerm/QTermAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/danilo/Desktop/QTerm/QTermAppDelegate.m313275950#313275950#0(0"0(0#0#46"/Users/danilo/Desktop/QTerm/QTermAppDelegate.m8652075424#1349"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/x86_64 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/QTermAppDelegate.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTermAppDelegate.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/Terminal.o /Users/danilo/Desktop/QTerm/Terminal.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313329898.301257
+e313329901.614444
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/Terminal.o
+x/Users/danilo/Desktop/QTerm/Terminal.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/danilo/Desktop/QTerm/Terminal.m313329898#313329901#0(0"0(0#0#38"/Users/danilo/Desktop/QTerm/Terminal.m8653131456#1333"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/x86_64 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/Terminal.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/Terminal.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/TerminalView.o /Users/danilo/Desktop/QTerm/TerminalView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313275950.506969
+e313275950.739112
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/TerminalView.o
+x/Users/danilo/Desktop/QTerm/TerminalView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/danilo/Desktop/QTerm/TerminalView.m313275950#313275950#0(0"0(0#0#42"/Users/danilo/Desktop/QTerm/TerminalView.m8649855392#1341"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/x86_64 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/TerminalView.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/TerminalView.o0#
+
+CCompileC build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/main.o /Users/danilo/Desktop/QTerm/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313275950.505507
+e313275950.624458
+r1
+xCompileC
+xbuild/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/main.o
+x/Users/danilo/Desktop/QTerm/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/danilo/Desktop/QTerm/main.m313275950#313275950#0(0"0(0#0#34"/Users/danilo/Desktop/QTerm/main.m8655760224#1325"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/x86_64 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -include /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch -c /Users/danilo/Desktop/QTerm/main.m -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib
+s313278311.840892
+e313278312.173910
+r1
+xCompileXIB
+x/Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib:551: warning: This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior.
+o/Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib:551: warning: This window's maximum size is smaller than its minimum size, a situation which may result in unexpected runtime behavior.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313278311#313278312#0(435"/* com.apple.ibtool.document.warnings *//Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib:551: warning: This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior./Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib:551: warning: This window's maximum size is smaller than its minimum size, a situation which may result in unexpected runtime behavior.2(22@133"This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior.313278312#18446744073709551615#0#0(6@54"/Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib313278310#551#0#551#0#0"0(22@121"This window's maximum size is smaller than its minimum size, a situation which may result in unexpected runtime behavior.313278312#18446744073709551615#0#0(6@54"/Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib313278310#551#0#551#0#0"0(0#0#54"/Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib8646263808#331"    cd /Users/danilo/Desktop/QTerm    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/English.lproj/MainMenu.nib /Users/danilo/Desktop/QTerm/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s313275945.142970
+e313275945.419908
+r1
+xCopyStringsFile
+x/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313275945#313275945#0(0"0(0#0#59"/Users/danilo/Desktop/QTerm/English.lproj/InfoPlist.strings8629755328#343"    cd /Users/danilo/Desktop/QTerm    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/QTerm.app/Contents/Resources/icon.png icon.png
+s313275945.144071
+e313275945.152538
+r1
+xCpResource
+xbuild/Release/QTerm.app/Contents/Resources/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png313275945#313275945#0(0"0(0#0#36"/Users/danilo/Desktop/QTerm/icon.png8627436992#312"    cd /Users/danilo/Desktop/QTerm    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/danilo/Desktop/QTerm/icon.png /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources0#
+
+CCpResource build/Release/QTerm.app/Contents/Resources/iconqterm.icns iconqterm.icns
+s313275945.144643
+e313275945.161847
+r1
+xCpResource
+xbuild/Release/QTerm.app/Contents/Resources/iconqterm.icns
+xiconqterm.icns
+lSLF07#2@19"Copy iconqterm.icns313275945#313275945#0(0"0(0#0#42"/Users/danilo/Desktop/QTerm/iconqterm.icns8626503680#318"    cd /Users/danilo/Desktop/QTerm    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/danilo/Desktop/QTerm/iconqterm.icns /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources0#
+
+CCpResource build/Release/QTerm.app/Contents/Resources/teste.qtz teste.qtz
+s313275945.147927
+e313275945.162116
+r1
+xCpResource
+xbuild/Release/QTerm.app/Contents/Resources/teste.qtz
+xteste.qtz
+lSLF07#2@14"Copy teste.qtz313275945#313275945#0(0"0(0#0#37"/Users/danilo/Desktop/QTerm/teste.qtz8625220320#313"    cd /Users/danilo/Desktop/QTerm    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/danilo/Desktop/QTerm/teste.qtz /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm normal "x86_64 i386 ppc"
+s313329912.798783
+e313329912.885069
+r1
+xCreateUniversalBinary
+x/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@91"CreateUniversalBinary build/Release/QTerm.app/Contents/MacOS/QTerm normal "x86_64 i386 ppc"313329912#313329912#0(0"0(0#0#43"/Users/danilo/Desktop/QTerm/x86_64 i386 ppc8614469984#419"    cd /Users/danilo/Desktop/QTerm    /usr/bin/lipo -create /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm -output /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm0#
+
+CGenerateDSYMFile /Users/danilo/Desktop/QTerm/build/Release/QTerm.app.dSYM /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm
+s313329912.885127
+e313329913.067821
+r1
+xGenerateDSYMFile
+x/Users/danilo/Desktop/QTerm/build/Release/QTerm.app.dSYM
+x/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm
+lSLF07#2@90"GenerateDSYMFile build/Release/QTerm.app.dSYM build/Release/QTerm.app/Contents/MacOS/QTerm313329912#313329913#0(0"0(0#0#72"/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm8657341056#200"    cd /Users/danilo/Desktop/QTerm    /Developer/usr/bin/dsymutil /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/MacOS/QTerm -o /Users/danilo/Desktop/QTerm/build/Release/QTerm.app.dSYM0#
+
+CLd /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm normal i386
+s313329912.705749
+e313329912.798713
+r1
+xLd
+x/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm
+xnormal
+xi386
+lSLF07#2@96"Link /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm313329912#313329912#0(0"0(0#0#0"8649831424#500"    cd /Users/danilo/Desktop/QTerm    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/danilo/Desktop/QTerm/build/Release -F/Users/danilo/Desktop/QTerm/build/Release -filelist /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/i386/QTerm0#
+
+CLd /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm normal ppc
+s313329909.731119
+e313329910.767071
+r1
+xLd
+x/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm
+xnormal
+xppc
+lSLF07#2@95"Link /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm313329909#313329910#0(0"0(0#0#0"8662635968#497"    cd /Users/danilo/Desktop/QTerm    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/danilo/Desktop/QTerm/build/Release -F/Users/danilo/Desktop/QTerm/build/Release -filelist /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/ppc/QTerm0#
+
+CLd /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm normal x86_64
+s313329901.614636
+e313329901.921892
+r1
+xLd
+x/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm
+xnormal
+xx86_64
+lSLF07#2@98"Link /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm313329901#313329901#0(0"0(0#0#0"8656472256#506"    cd /Users/danilo/Desktop/QTerm    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/danilo/Desktop/QTerm/build/Release -F/Users/danilo/Desktop/QTerm/build/Release -filelist /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/Objects-normal/x86_64/QTerm0#
+
+CProcessInfoPlistFile /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Info.plist QTerm-Info.plist
+s313275945.139048
+e313275945.142789
+r1
+xProcessInfoPlistFile
+x/Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Info.plist
+xQTerm-Info.plist
+lSLF07#2@24"Process QTerm-Info.plist313275945#313275945#0(0"0(0#0#44"/Users/danilo/Desktop/QTerm/QTerm-Info.plist8632406112#275"    cd /Users/danilo/Desktop/QTerm    builtin-infoPlistUtility QTerm-Info.plist -genpkginfo /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/danilo/Desktop/QTerm/build/Release/QTerm.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch.gch QTerm_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313275945.816362
+e313275950.496090
+r1
+xProcessPCH
+x/var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch.gch
+xQTerm_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile QTerm_Prefix.pch313275945#313275950#0(0"0(0#0#44"/Users/danilo/Desktop/QTerm/QTerm_Prefix.pch8641113056#1242"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/x86_64 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -c /Users/danilo/Desktop/QTerm/QTerm_Prefix.pch -o /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-btdgfpoepfbiengvygdxeooozngt/QTerm_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch.gch QTerm_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313275945.816995
+e313275950.505320
+r1
+xProcessPCH
+x/var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch.gch
+xQTerm_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile QTerm_Prefix.pch313275945#313275950#0(0"0(0#0#44"/Users/danilo/Desktop/QTerm/QTerm_Prefix.pch8633873024#1238"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/i386 -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -c /Users/danilo/Desktop/QTerm/QTerm_Prefix.pch -o /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-dthqqnmcwvnyelbdvrbuvdyuatic/QTerm_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch.gch QTerm_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s313275945.817589
+e313275950.463728
+r1
+xProcessPCH
+x/var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch.gch
+xQTerm_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile QTerm_Prefix.pch313275945#313275950#0(0"0(0#0#44"/Users/danilo/Desktop/QTerm/QTerm_Prefix.pch8657513888#1246"    cd /Users/danilo/Desktop/QTerm    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-generated-files.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-own-target-headers.hmap -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-all-target-headers.hmap -iquote /Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/QTerm-project-headers.hmap -F/Users/danilo/Desktop/QTerm/build/Release -I/Users/danilo/Desktop/QTerm/build/Release/include -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources/ppc -I/Users/danilo/Desktop/QTerm/build/QTerm.build/Release/QTerm.build/DerivedSources -c /Users/danilo/Desktop/QTerm/QTerm_Prefix.pch -o /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-gcwcrcglibvsqhbnztjyhztmdagk/QTerm_Prefix.pch.gch0#
+
+CTouch /Users/danilo/Desktop/QTerm/build/Release/QTerm.app
+s313329913.067912
+e313329913.074987
+r1
+xTouch
+x/Users/danilo/Desktop/QTerm/build/Release/QTerm.app
+lSLF07#2@57"Touch /Users/danilo/Desktop/QTerm/build/Release/QTerm.app313329913#313329913#0(0"0(0#0#0"8653381120#109"    cd /Users/danilo/Desktop/QTerm    /usr/bin/touch -c /Users/danilo/Desktop/QTerm/build/Release/QTerm.app0#
+

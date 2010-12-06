@@ -1,0 +1,14 @@
+900535d651849b7b912d8b8408b1e678 6e7b6cd555bb6222c0d075fcf6097642 ffffffffffffffffffffffffffffffff 102 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app
+f4d4716fb7dd251ecfd25e0915636efe 323827a586b920f31081ad616b30847f ffffffffffffffffffffffffffffffff 45560 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app/Contents/MacOS/QTerm
+00000000000000000000000000000000 2cc974424a512b76cc2da6dafee65c8a ffffffffffffffffffffffffffffffff 16843 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app/Contents/Resources/teste.qtz
+00000000000000000000000000000000 3b8bc680c4dd7b788778a43c3c63ca9d ffffffffffffffffffffffffffffffff 97662 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app/Contents/Resources/iconqterm.icns
+00000000000000000000000000000000 099412c9ed0a4c211d6d996cc4e54959 ffffffffffffffffffffffffffffffff 14172 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app/Contents/Resources/icon.png
+000000004cfd39c90000000000041b0a a06e99bf4037679d99c575f8a8132457 ffffffffffffffffffffffffffffffff 55342 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004cfab10d000000000000002d e8515aa843566de08183969ed895ecc7 ffffffffffffffffffffffffffffffff 92 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 1044b067911f4bebdf912e88c61e2256 ffffffffffffffffffffffffffffffff 8 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app/Contents/PkgInfo
+00000000000000000000000000000000 1044b067911f4bebdf912e88c61e2256 ffffffffffffffffffffffffffffffff 941 /Users/danilo/Desktop/QTerm/build/Debug/QTerm.app/Contents/Info.plist
+80a3930fa7856f1aa8cb998cfc305bec cca3be240e7669893977116b2c14041d ffffffffffffffffffffffffffffffff 15992 /Users/danilo/Desktop/QTerm/build/QTerm.build/Debug/QTerm.build/Objects-normal/x86_64/Terminal.o
+80a3930fa1b69d05a8cb998cfc300ee5 5950560812a60db07094c1ba9b120b17 ffffffffffffffffffffffffffffffff 74248 /Users/danilo/Desktop/QTerm/build/QTerm.build/Debug/QTerm.build/Objects-normal/x86_64/TerminalView.o
+80a3930fad8f03bda8cb998cfc301874 537dd2c7d354c3a87c756fff3297634d ffffffffffffffffffffffffffffffff 22020 /Users/danilo/Desktop/QTerm/build/QTerm.build/Debug/QTerm.build/Objects-normal/x86_64/QTermAppDelegate.o
+80a3930fe175b086a8cb998cfc301802 325a4b84359c2966fa44e12790f2f2c8 ffffffffffffffffffffffffffffffff 4968 /Users/danilo/Desktop/QTerm/build/QTerm.build/Debug/QTerm.build/Objects-normal/x86_64/main.o
+000000000c3e1b650000000000000168 80a3930fe175b086a8cb998cfc30187a ffffffffffffffffffffffffffffffff 54265616 /var/folders/im/im934TdKHTyNvh9E73HUL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QTerm_Prefix-anakyxgijpepwzdgpbxccqdyclpu/QTerm_Prefix.pch.gch
